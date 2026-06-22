@@ -1,19 +1,15 @@
-# ATS2640 — Exam Prep (PDFs)
+# ATS2640 — Study App
 
-*The Ethics of Global Conflict · 12-min informal oral. Tap a PDF to read it on your phone.*
+Everything for *The Ethics of Global Conflict* oral, in one place.
 
-## Start here
-- [Understand It](1-Understand-It.pdf)
-- [The Six Names](2-The-Six-Names.pdf)
-- [Explain It Yourself](3-Explain-It-Yourself.pdf)
-- [Mock Interview](4-Mock-Interview.pdf)
+### ▶ Open the app: https://maximiseperformanc.github.io/ats2640-prep/
 
-## Reference & drill
-- [Exam Day One Pager](5-Exam-Day-One-Pager.pdf)
-- [Crash Lesson](6-Crash-Lesson.pdf)
-- [Question Bank](7-Question-Bank.pdf)
-- [Bluffers Toolkit](8-Bluffers-Toolkit.pdf)
-- [Flashcards](9-Flashcards.pdf)
+Four tabs, all from one source of truth:
+- **Learn** — the whole unit as 4 big ideas, plain English.
+- **Flashcards** — flip cards, filterable by topic.
+- **Practice** — 60 questions (Q1 / Q2 / Q3) with dot-point talking points to riff off.
+- **Game** — match the thinkers to their ideas (quiz + tap-to-pair).
 
----
-*Read 1-Understand-It first, then run a Mock-Interview round out loud. No right answers — take a position, give a reason.*
+Works on your phone, no login, no install.
+
+*Offline copies: the `*.pdf` files in this repo are the same content as PDFs (not actively maintained — the app is the source of truth).*
